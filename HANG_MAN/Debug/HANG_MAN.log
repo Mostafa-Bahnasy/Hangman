@@ -1,0 +1,5 @@
+﻿  HANG_MAN.cpp
+E:\other\HANG_MAN\HANG_MAN.cpp(200,23): warning C4018: '<': signed/unsigned mismatch
+E:\other\HANG_MAN\HANG_MAN.cpp(226,23): warning C4018: '<': signed/unsigned mismatch
+E:\other\HANG_MAN\HANG_MAN.cpp(238,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HANG_MAN.vcxproj -> E:\other\HANG_MAN\Debug\HANG_MAN.exe
